@@ -7,4 +7,4 @@ It is not in any way affiliated with VORON Design.
 
 Our discord server can be found here: https://discord.gg/MzTR3zE
 
- ![Image of the Unfinshed Cabinet](https://github.com/Annex-Engineering/Denali/blob/master/Images/Denali_-_Electronics.JPG?raw=true)
+ ![Image of the Unfinshed Cabinet](https://raw.githubusercontent.com/Annex-Engineering/Filament_Cabinet/master/Images/Cabinet_Full.JPG?raw=true)
